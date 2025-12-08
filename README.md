@@ -19,7 +19,7 @@ Alinhamento técnico das visualizações e arquitetura de dados.
 * **Decisão Estratégica:** Devido à ausência de dados monetários no dataset, a métrica de "Receita" foi substituída por **"Média de Duração de Viagem"** para medir engajamento real.
 * **Arquitetura:** Planejamento de views para unir dados de viagens, clima (NOAA) e censo.
 
-### 3. [Dashboard Mockup (Low-Code)](./02_Design/Dashboard_Mockup_v1.jpg)
+### 3. [Dashboard Mockup (Low-Code)](./02_Design/Dashboard_Mockup_v1.png)
 Prototipagem visual criada no Excalidraw para validação com stakeholders.
 * **Visualização:** Foco em Mapas de Calor (Heatmaps) para análise geoespacial.
 * **Funcionalidade:** Filtros de granulação temporal (Mês/Ano) e Tipo de Usuário.
@@ -28,7 +28,7 @@ Prototipagem visual criada no Excalidraw para validação com stakeholders.
 
 ## 📸 Visualização do Conceito
 
-![Dashboard Mockup](./02_Design/Dashboard_Mockup_v1.jpg)
+![Dashboard Mockup](./02_Design/Dashboard_Mockup_v1.png)
 *(Mockup desenhado no Excalidraw demonstrando a disposição de KPIs, Mapa de Calor e Análise Sazonal)*
 
 ---
