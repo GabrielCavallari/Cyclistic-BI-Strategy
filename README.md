@@ -4,7 +4,7 @@
 Este repositório documenta a estratégia de Business Intelligence desenvolvida para a **Cyclistic**, uma empresa fictícia de compartilhamento de bicicletas em Nova York. O projeto faz parte do *Google Business Intelligence Professional Certificate*.
 
 **Objetivo de Negócio:**
-A equipe de marketing busca entender como os **Clientes Casuais** e os **Membros Anuais** usam as bicicletas de forma diferente, visando criar estratégias para converter casuais em membros[cite: 119, 235].
+A equipe de marketing busca entender como os **Clientes Casuais** e os **Membros Anuais** usam as bicicletas de forma diferente, visando criar estratégias para converter casuais em membros.
 
 ## 📂 Entregáveis da Fase 1 (Planejamento)
 
