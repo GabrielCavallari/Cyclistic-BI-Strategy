@@ -55,7 +55,7 @@ Antes do desenvolvimento final, protótipos de baixa fidelidade foram criados pa
 * **Visualização:** Foco em Mapas de Calor (Heatmaps) para análise geoespacial intuitiva.
 * **Funcionalidade:** Filtros de granulação temporal (Mês/Ano) e Tipo de Usuário no topo (Z-Pattern).
 
-![Dashboard Mockup](./03_Design/Dashboard_Mockup_v1.jpg)
+![Dashboard Mockup](./03_Design/Dashboard_Mockup_v1.png)
 *(Mockup desenhado no Excalidraw demonstrando a disposição de KPIs, Mapa de Calor e Análise Sazonal)*
 
 ---
